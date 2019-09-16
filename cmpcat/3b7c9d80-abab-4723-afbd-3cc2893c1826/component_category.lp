@@ -1,0 +1,10 @@
+(librepcb_component_category 3b7c9d80-abab-4723-afbd-3cc2893c1826
+ (name "Jumper")
+ (description "")
+ (keywords "")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2019-09-15T23:28:56Z)
+ (deprecated false)
+ (parent 8ca4f9fb-3dd3-4c1e-a097-6601b437bbc6)
+)

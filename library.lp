@@ -1,0 +1,10 @@
+(librepcb_library 7b15596e-ca31-48d5-b4ab-48f65167f370
+ (name "TE Connectivity")
+ (description "This is an unofficial testing LibrePCB library. TE Connectivity pin headers")
+ (keywords "")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2019-09-15T23:14:38Z)
+ (deprecated false)
+ (url "https://github.com/EdizonTN/TE_Connectivity.lplib")
+)
