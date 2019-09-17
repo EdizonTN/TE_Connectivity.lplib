@@ -42,7 +42,4 @@
  (text c1be68f1-e22f-4c54-be14-5302daaeb5ec (layer sym_names) (value "{{NAME}}")
   (align center bottom) (height 2.54) (position 0.0 1.27) (rotation 0.0)
  )
- (text 188d44bf-7fa2-419d-bfac-bc13ad2e623f (layer sym_values) (value "{{VALUE}}")
-  (align center top) (height 2.54) (position 0.0 -1.27) (rotation 0.0)
- )
 )
