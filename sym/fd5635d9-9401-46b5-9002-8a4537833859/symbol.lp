@@ -1,6 +1,6 @@
 (librepcb_symbol fd5635d9-9401-46b5-9002-8a4537833859
- (name "Jumper 1x3")
- (description "Jumper Header,3 pin, Open")
+ (name "Jumper pins 1x3, Circle")
+ (description "Jumper Header,3 pin, Circle")
  (keywords "")
  (author "EdizonTN")
  (version "0.1")
